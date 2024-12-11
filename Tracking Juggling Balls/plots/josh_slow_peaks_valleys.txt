@@ -1,0 +1,25 @@
+Peaks (Throwing Events):
+2. Time: 1.23s, Velocity: 0.63 pixels/s
+4. Time: 2.50s, Velocity: 1.50 pixels/s
+5. Time: 3.92s, Velocity: 1.03 pixels/s
+6. Time: 5.59s, Velocity: 0.18 pixels/s
+7. Time: 6.96s, Velocity: 0.43 pixels/s
+9. Time: 8.10s, Velocity: 1.20 pixels/s
+11. Time: 9.77s, Velocity: 0.67 pixels/s
+13. Time: 11.16s, Velocity: 0.23 pixels/s
+14. Time: 12.35s, Velocity: 1.99 pixels/s
+16. Time: 13.83s, Velocity: 1.01 pixels/s
+18. Time: 15.05s, Velocity: 1.82 pixels/s
+
+Valleys (Catching Events):
+1. Time: 0.25s, Velocity: -3.33 pixels/s
+2. Time: 1.68s, Velocity: -2.99 pixels/s
+4. Time: 3.07s, Velocity: -3.54 pixels/s
+5. Time: 4.45s, Velocity: -3.20 pixels/s
+6. Time: 5.90s, Velocity: -3.66 pixels/s
+7. Time: 7.28s, Velocity: -3.20 pixels/s
+9. Time: 8.72s, Velocity: -3.48 pixels/s
+10. Time: 10.07s, Velocity: -2.93 pixels/s
+11. Time: 11.47s, Velocity: -3.83 pixels/s
+12. Time: 12.82s, Velocity: -3.20 pixels/s
+14. Time: 14.23s, Velocity: -3.87 pixels/s

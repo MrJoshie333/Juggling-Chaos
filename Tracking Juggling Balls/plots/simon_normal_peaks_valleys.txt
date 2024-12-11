@@ -1,0 +1,12 @@
+Peaks (Throwing Events):
+3. Time: 0.82s, Velocity: 1.88 pixels/s
+4. Time: 1.15s, Velocity: -2.64 pixels/s
+8. Time: 1.87s, Velocity: 2.28 pixels/s
+10. Time: 2.95s, Velocity: 1.84 pixels/s
+13. Time: 4.00s, Velocity: 2.32 pixels/s
+
+Valleys (Catching Events):
+1. Time: 0.12s, Velocity: -2.62 pixels/s
+3. Time: 1.12s, Velocity: -3.10 pixels/s
+5. Time: 2.17s, Velocity: -3.01 pixels/s
+7. Time: 3.22s, Velocity: -2.95 pixels/s
