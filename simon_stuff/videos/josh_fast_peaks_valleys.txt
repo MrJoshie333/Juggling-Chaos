@@ -1,0 +1,33 @@
+Peaks (Throwing Events):
+Time: 0.73s, Velocity: 1.19 m/s
+Time: 1.78s, Velocity: 1.13 m/s
+Time: 2.87s, Velocity: 1.55 m/s
+Time: 3.77s, Velocity: 0.71 m/s
+Time: 4.67s, Velocity: 1.51 m/s
+Time: 5.72s, Velocity: 0.98 m/s
+Time: 6.67s, Velocity: 1.59 m/s
+Time: 7.62s, Velocity: 0.92 m/s
+Time: 8.53s, Velocity: 1.42 m/s
+Time: 9.33s, Velocity: 1.78 m/s
+Time: 10.47s, Velocity: 1.34 m/s
+Time: 11.42s, Velocity: 1.36 m/s
+
+Valleys (Catching Events):
+Time: 1.13s, Velocity: -3.10 m/s
+Time: 2.17s, Velocity: -2.49 m/s
+Time: 3.12s, Velocity: -2.89 m/s
+Time: 4.03s, Velocity: -2.34 m/s
+Time: 5.03s, Velocity: -2.91 m/s
+Time: 5.98s, Velocity: -2.60 m/s
+Time: 6.93s, Velocity: -2.91 m/s
+Time: 7.88s, Velocity: -2.43 m/s
+Time: 8.83s, Velocity: -2.78 m/s
+Time: 9.77s, Velocity: -2.32 m/s
+Time: 10.77s, Velocity: -2.85 m/s
+Time: 11.70s, Velocity: -2.66 m/s
+
+Mean Data:
+Mean of differences for nth peak and (n+1)th valley: 0.32
+Mean of differences for nth peak and nth valley: 0.65
+Mean of differences for first, skipping peaks, and (n+1)th valley: 1.27
+Mean of differences for skipped peaks and their corresponding (n+1)th valley: 1.29
